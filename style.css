@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(7, 7, 7);
+  background-size: cover;
+}
+#page{
+  box-sizing: border-box;
+  width: 1480px;
+  padding:65px;
+  background-color:#4d4b4a;
+  border-radius: 40px;
+  margin: 188px auto;
+  border: 10px;
+}
+div{
+  box-sizing: border-box;
+  width: 1120px;;
+  background-color:#F5F4F0;
+  padding: 80px 88px;
+  margin: 188px auto;
+
+}
