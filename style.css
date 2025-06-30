@@ -31,3 +31,35 @@ img {
   height: auto;
 }
 
+.bom-para .item-azul{
+  color:#0C51A7
+ }
+.bom-para .item-roxo{
+  color:#591B98;
+}
+.bom-para .item-rosa{
+  color: #E5245E;
+}
+.bom-para .item-lar{
+  color: #E95E10;
+}
+
+span{
+  font-size: 16px;
+  text-align: center;
+  display: flex;
+  color: #333333;
+}
+
+h1{
+  color:#1B1B1B ;
+  font-size: 36px;
+}
+
+h2{
+  font-size: 32px;
+  color: #333333;
+}
+footer{
+  text-align: center;
+}
